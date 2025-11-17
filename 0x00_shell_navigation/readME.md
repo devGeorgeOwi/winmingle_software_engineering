@@ -1,5 +1,5 @@
 ## This is WinMingle Software Engineering Program Class 
-#on shell navigation, 
+on shell navigation, 
 #this readME contains the 60 tasks on shell navigation
 ## Question 1: Shell Navigation
     Create a folder named `week1_assignment`.
